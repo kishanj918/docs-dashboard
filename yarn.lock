@@ -310,6 +310,11 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
+"@lucide/svelte@^0.484.0":
+  version "0.484.0"
+  resolved "https://registry.yarnpkg.com/@lucide/svelte/-/svelte-0.484.0.tgz#9d00f609f8258ff08d4d68b2aae0314d1e060baf"
+  integrity sha512-yuHwfJxE1n3kOg/4hIsvAUrBv3Mood/8BCcugUyRhxyr4EJDtjHJiiCpjJmtnk1gqkCYAEREKoGPaSGilcjYKw==
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
